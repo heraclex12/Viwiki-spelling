@@ -11,7 +11,7 @@ The dataset is stored in JSON lines and each document contains following key-val
     "_id": "Unique id in the dataset",
     "text": "the document content",
     "current_id": "revision current id",
-    "parent_id": "revision parent id",
+    "parent_id": "revision previous id",
     "page_id": "viwiki id",
     "mistakes": [
                   {
