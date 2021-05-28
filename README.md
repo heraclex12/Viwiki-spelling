@@ -1,4 +1,4 @@
-# Viwiki-Spelling: A dataset for Vietnamese Spelling Correction
+# Viwiki-Spelling: A tdataset for Vietnamese Spelling Correction
 
 ## Introduction
 We introduce a first Vietnamese Spelling Correction dataset containing manual labeling mistakes and corresponding correct words.
