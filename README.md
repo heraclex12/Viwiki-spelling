@@ -30,21 +30,20 @@ The dataset is under [Attribution 4.0 International (CC BY 4.0)](LICENSE)
 ## Cite
 ```
 @InProceedings{10.1007/978-3-030-79457-6_46,
-author="Tran, Hieu
-and Dinh, Cuong V.
-and Phan, Long
-and Nguyen, Son T.",
-editor="Fujita, Hamido
-and Selamat, Ali
-and Lin, Jerry Chun-Wei
-and Ali, Moonis",
-title="Hierarchical Transformer Encoders for Vietnamese Spelling Correction",
-booktitle="Advances and Trends in Artificial Intelligence. Artificial Intelligence Practices",
-year="2021",
-publisher="Springer International Publishing",
-address="Cham",
-pages="547--556",
-isbn="978-3-030-79457-6"
+        author="Tran, Hieu
+        and Dinh, Cuong V.
+        and Phan, Long
+        and Nguyen, Son T.",
+        editor="Fujita, Hamido
+        and Selamat, Ali
+        and Lin, Jerry Chun-Wei
+        and Ali, Moonis",
+        title="Hierarchical Transformer Encoders for Vietnamese Spelling Correction",
+        booktitle="Advances and Trends in Artificial Intelligence. Artificial Intelligence Practices",
+        year="2021",
+        publisher="Springer International Publishing",
+        address="Cham",
+        pages="547--556",
+        isbn="978-3-030-79457-6"
 }
-
 ```
